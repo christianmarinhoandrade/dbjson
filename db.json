@@ -12,7 +12,7 @@
     {
       "id": 1,
       "code": "dfe81127-b11a",
-      "value": "R$10,00",
+      "value": 105,
       "date": "13/04/1995",
       "cashback": "10%",
       "valuecashback": 2,
@@ -21,7 +21,7 @@
     {
       "id": 1,
       "code": "dfe81127-b11a",
-      "value": "R$10,00",
+      "value": 1022,
       "date": "13/04/1995",
       "cashback": "10%",
       "valuecashback": 2,
@@ -30,7 +30,7 @@
     {
       "id": 1,
       "code": "dfe81127-b11a",
-      "value": "R$10,00",
+      "value": 1044,
       "date": "13/04/1995",
       "cashback": "10%",
       "valuecashback": 3,

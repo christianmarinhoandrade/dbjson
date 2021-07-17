@@ -5,7 +5,36 @@
       "nome": "Christian Marinho de Andrade",
       "cpf": "111.111.11-11",
       "email": "christian@teste.com",
-      "senha":"1234"
+      "senha": "1234"
+    }
+  ],
+  "compras": [
+    {
+      "id": 1,
+      "code": "dfe81127-b11a-4231-8622-8df8a3c139ae",
+      "value": "R$10,00",
+      "date": "13/04/1995",
+      "cashback": "10%",
+      "valuecashback": "R$1",
+      "status": "Aprovado"
+    },
+    {
+      "id": 1,
+      "code": "dfe81127-b11a-4231-8622-8df8a3c139ae",
+      "value": "R$10,00",
+      "date": "13/04/1995",
+      "cashback": "10%",
+      "valuecashback": "R$1",
+      "status": "Reprovado"
+    },
+    {
+      "id": 1,
+      "code": "dfe81127-b11a-4231-8622-8df8a3c139ae",
+      "value": "R$10,00",
+      "date": "13/04/1995",
+      "cashback": "10%",
+      "valuecashback": "R$1",
+      "status": "Em validação"
     }
   ],
   "profile": {
